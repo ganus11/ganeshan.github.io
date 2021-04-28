@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Mahadevan Subramanian"
+title:       "Ganeshan Subramanian"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "Personal homepage"
 source_link: "https://github.com/t413/SinglePaged"

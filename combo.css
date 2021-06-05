@@ -10436,7 +10436,7 @@ a.text-dark:hover, a.text-dark:focus {
   input[type="submit"]:hover,
   input[type="reset"]:hover,
   input[type="button"]:hover {
-    color: #222;
+    /*color: #222;*/
     background: #ddd; /* Old browsers */
     background: #ddd -moz-linear-gradient(top, rgba(255,255,255,.3) 0%, rgba(0,0,0,.3) 100%); /* FF3.6+ */
     background: #ddd -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,.3)), color-stop(100%,rgba(0,0,0,.3))); /* Chrome,Safari4+ */
@@ -11496,7 +11496,6 @@ body {
   padding: 18px;
   width: 100%;
   border: none;
-  text-align: left;
   outline: none;
   font-size: 15px;
 }

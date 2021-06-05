@@ -10871,7 +10871,7 @@ hr {
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 /* keep embedded videos fluid! */
@@ -11490,7 +11490,7 @@ body {
 }
 
 .collapsible {
-  background-color: #777;
+  background-color: #566167;
   color: white;
   cursor: pointer;
   padding: 18px;
